@@ -18,8 +18,6 @@ Independent samples t tests showed no significant differences in climate attitud
 - The paired t test confirmed that mean WTP is significantly higher under DC (mean difference €66.71, p = 0.0078).
 - The Wilcoxon signed rank test also found a significant difference (z = 2.957, p = 0.0031), supporting the conclusion that elicitation format systematically affects WTP estimates.
 # Distributional Insights
-![Histogram of Paired Difference of WTP](Figures and Tables/histogram_paired_wtp_diff.png)
-
 - Median WTP is less sensitive to extreme values, making it a robust measure of typical household willingness.
 - Mean WTP is more appropriate for aggregate welfare calculations, but its sensitivity to outliers requires caution.
 - Both measures should be reported in policy contexts to balance efficiency with equity.
