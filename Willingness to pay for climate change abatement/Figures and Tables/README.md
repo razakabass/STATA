@@ -7,7 +7,7 @@
 
 
 
-# Paired t test
+# WTP Estimates by Question Format: Paired t test
 <a href="../Research Report/README.md#paired_test">
 <table>
 <tr><th>Variable</th><th>Obs</th><th>Mean</th><th>Std. Err.</th><th>Std. Dev.</th><th>[95% Conf.]</th></tr>
