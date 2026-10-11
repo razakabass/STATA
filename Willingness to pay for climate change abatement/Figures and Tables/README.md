@@ -14,22 +14,35 @@
 
 # Table 9: Descriptive statistics of willingness to pay by question format
 <a href="../Research Report/README.md#paired_test">
-| Statistic | DC_WTP | TWPL_WTP |
-| :--- | :---: | :---: |
-| Observations (N) | 383 | 348 |
-| Mean | 348.188 | 268.5345 |
-| Standard deviation | 378.6489 | 287.7085 |
-| Variance | 143,375 | 82,776.16 |
-| Skewness | 1.612909 | 1.767491 |
-| Kurtosis | 4.550406 | 5.620861 |
-| Minimum | 48 | 48 |
-| 1st percentile | 48 | 48 |
-| 5th percentile | 48 | 60 |
-| 10th percentile | 72 | 60 |
-| 25th percentile | 84 | 78 |
-| Median (50th percentile) | 192 | 132 |
-| 75th percentile | 432 | 333 |
-| 90th percentile | 960 | 744 |
-| 95th percentile | 1,200 | 840 |
-| 99th percentile | 1,440 | 1,320 |
-| Maximum | 1,440 | 1,440 |
+<table>
+  <thead>
+    <tr>
+      <th>Statistic</th>
+      <th>DC_WTP</th>
+      <th>TWPL_WTP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Observations (N)</td><td>383</td><td>348</td></tr>
+    <tr><td>Mean</td><td>348.188</td><td>268.5345</td></tr>
+    <tr><td>Standard deviation</td><td>378.6489</td><td>287.7085</td></tr>
+    <tr><td>Variance</td><td>143,375</td><td>82,776.16</td></tr>
+    <tr><td>Skewness</td><td>1.612909</td><td>1.767491</td></tr>
+    <tr><td>Kurtosis</td><td>4.550406</td><td>5.620861</td></tr>
+    <tr><td>Minimum</td><td>48</td><td>48</td></tr>
+    <tr><td>1st percentile</td><td>48</td><td>48</td></tr>
+    <tr><td>5th percentile</td><td>48</td><td>60</td></tr>
+    <tr><td>10th percentile</td><td>72</td><td>60</td></tr>
+    <tr><td>25th percentile</td><td>84</td><td>78</td></tr>
+    <tr><td><strong>Median (50th percentile)</strong></td><td><strong>192</strong></td><td><strong>132</strong></td></tr>
+    <tr><td>75th percentile</td><td>432</td><td>333</td></tr>
+    <tr><td>90th percentile</td><td>960</td><td>744</td></tr>
+    <tr><td>95th percentile</td><td>1,200</td><td>840</td></tr>
+    <tr><td>99th percentile</td><td>1,440</td><td>1,320</td></tr>
+    <tr><td>Maximum</td><td>1,440</td></tr>
+  </tbody>
+</table>
+
+
+
+
