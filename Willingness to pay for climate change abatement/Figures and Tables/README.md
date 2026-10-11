@@ -1,4 +1,4 @@
-<a href="../Research Report/README.md#paired_test">
+
   <img width="474" height="270" alt="image" src="https://github.com/user-attachments/assets/f252f6d4-2d9a-4741-9dde-8f84e2ed774f" />
 </a>
 
