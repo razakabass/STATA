@@ -3,7 +3,7 @@
 </a>
 
 # WTP Estimates by Question Format: Paired t test
-<a href="../Research Report/README.md#paired t test">
+<a href="../Research Report/README.md### WTP Estimates">
 <table>
 <tr><th>Variable</th><th>Obs</th><th>Mean</th><th>Std. Err.</th><th>Std. Dev.</th><th>[95% Conf.]</th></tr>
 <tr><td>DC_WTP1</td><td>348</td><td>335.24</td><td>19.44</td><td>362.72</td><td>296.99 - 373.48</td></tr>
