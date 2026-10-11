@@ -24,6 +24,16 @@ Independent samples t tests showed no significant differences in climate attitud
 # Policy Context
 Leading think tanks estimate that $20 trillion USD of investment in low carbon energy and efficiency technologies is needed by 2030 to meet Paris Agreement targets. This equates to approximately €3,273 per adult in total, or €298 per adult per year (2020–2030).
 # Comparison with WTP
+### Paired t test
+<table>
+<tr><th>Variable</th><th>Obs</th><th>Mean</th><th>Std. Err.</th><th>Std. Dev.</th><th>[95% Conf.]</th></tr>
+<tr><td>DC_WTP1</td><td>348</td><td>335.24</td><td>19.44</td><td>362.72</td><td>296.99 - 373.48</td></tr>
+<tr><td>TWPL_WTP1</td><td>348</td><td>268.53</td><td>15.42</td><td>287.70</td><td>238.20 - 298.86</td></tr>
+<tr><td>diff</td><td>348</td><td>66.70</td><td>24.94</td><td>465.29</td><td>17.64 - 115.76</td></tr>
+</table>
+
+> mean(diff) = mean(DC_WTP1 - TWPL_WTP1) | t = 2.6745 | df = 347 | p = 0.0078 (two-tailed)
+
 - Median WTP (DC: €192; TWPL: €132) is below the required €298 annual contribution.
 - Mean WTP (DC: €348; TWPL: €268) is closer to the target, with DC mean exceeding the benchmark.
 - Assuming German attitudes reflect global preferences, a tax equal to the median WTP would not fully finance climate mitigation, but the mean WTP suggests aggregate feasibility if higher income households contribute more.
