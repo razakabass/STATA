@@ -1,7 +1,6 @@
 ### Willingness to Pay for Climate Change Abatement
 <img width="474" height="270" alt="image" src="https://github.com/user-attachments/assets/f252f6d4-2d9a-4741-9dde-8f84e2ed774f" />
 
-
 ## Overview
 This project analyzes survey data on willingness to pay (WTP) for climate change abatement using two elicitation formats:
 Dichotomous Choice (DC) respondents accept or reject a proposed cost.
@@ -13,9 +12,7 @@ The study compares mean and median WTP across formats, evaluates statistical dif
 Independent samples t tests showed no significant differences in climate attitudes, pro government intervention, or pro environmental attitudes between DC and TWPL groups. Climate attitudes were marginally different at the 10% level, but overall attitudinal measures appear robust to elicitation format.
 
 <a id="paired_test"></a>
-### Paired t-test
-
-WTP Estimates 
+### WTP Estimates 
 - DC Format: Mean WTP = €348.19; Median WTP = €192.
 - TWPL Format: Mean WTP = €268.53; Median WTP = €132.
 - Both distributions are right skewed, with skewness values of 1.61 (DC) and 1.77 (TWPL).
