@@ -13,7 +13,7 @@
 > mean(diff) = mean(DC_WTP1 - TWPL_WTP1) | t = 2.6745 | df = 347 | p = 0.0078 (two-tailed)
 
 # Table 9: Descriptive statistics of willingness to pay by question format
-<a href="../Research Report/README.md#Comparison with WTP">
+<a href="../Research Report/README.md# Comparison with WTP">
 <table>
   <thead>
     <tr>
