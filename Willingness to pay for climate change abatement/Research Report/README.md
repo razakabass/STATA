@@ -24,6 +24,7 @@ Independent samples t tests showed no significant differences in climate attitud
 - Both measures should be reported in policy contexts to balance efficiency with equity.
 # Policy Context
 Leading think tanks estimate that $20 trillion USD of investment in low carbon energy and efficiency technologies is needed by 2030 to meet Paris Agreement targets. This equates to approximately €3,273 per adult in total, or €298 per adult per year (2020–2030).
+<a id="paired_test"></a>
 # Comparison with WTP
 - Median WTP (DC: €192; TWPL: €132) is below the required €298 annual contribution.
 - Mean WTP (DC: €348; TWPL: €268) is closer to the target, with DC mean exceeding the benchmark.
