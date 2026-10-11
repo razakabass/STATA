@@ -1,4 +1,4 @@
-<a href="../Research Report/README.md#paired_test">
+
   <img width="474" height="270" alt="image" src="https://github.com/user-attachments/assets/f252f6d4-2d9a-4741-9dde-8f84e2ed774f" />
 </a>
 
@@ -8,6 +8,7 @@
 
 
 ### Paired t test
+<a href="../Research Report/README.md#paired_test">
 <table>
 <tr><th>Variable</th><th>Obs</th><th>Mean</th><th>Std. Err.</th><th>Std. Dev.</th><th>[95% Conf.]</th></tr>
 <tr><td>DC_WTP1</td><td>348</td><td>335.24</td><td>19.44</td><td>362.72</td><td>296.99 - 373.48</td></tr>
