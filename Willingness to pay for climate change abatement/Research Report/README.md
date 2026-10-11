@@ -12,23 +12,6 @@ The study compares mean and median WTP across formats, evaluates statistical dif
 # Attitudinal Measures
 Independent samples t tests showed no significant differences in climate attitudes, pro government intervention, or pro environmental attitudes between DC and TWPL groups. Climate attitudes were marginally different at the 10% level, but overall attitudinal measures appear robust to elicitation format.
 # WTP Estimates
-Paired t test
-
-Variable Obs Mean Std. err. Std. dev.	[95% conf. interval]
-	
-DC_WTP1 348 335.2414 19.44419 362.7266	296.9981 373.4847
-TWPL_W~1 348 268.5345 15.42279 287.7085	238.2006 298.8684
-	
-diff 348 66.7069 24.94219 465.2906	17.64999 115.7638
-	
-mean(diff) = mean(DC_WTP1 - TWPL_WTP1)	t = 2.6745
-H0: mean(diff) = 0 Degrees	of freedom = 347
-Ha: mean(diff) < 0 Ha: mean(diff) != 0	Ha: mean(diff) > 0
-Pr(T < t) = 0.9961 Pr(T > t) = 0.0078	Pr(T > t) = 0.0039
-	
-
-
-
 - DC Format: Mean WTP = €348.19; Median WTP = €192.
 - TWPL Format: Mean WTP = €268.53; Median WTP = €132.
 - Both distributions are right skewed, with skewness values of 1.61 (DC) and 1.77 (TWPL).
